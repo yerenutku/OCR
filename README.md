@@ -10,8 +10,8 @@ olarak verildiğinde, resimdeki yazıları bir text çıktısı olarak bulması 
 verilmesinde YSA(Yapay Sinir Ağı) algoritması kullanılmıştır.
 Herhangi bir öneri ya da sorunuz için çekinmeden iletişeme geçebilirsiniz. yerenutku@gmail.com <br>
 
-Mustafa Nadi ŞENEL
-Y. Eren UTKU (<a href="www.github.com/yerenutku">github.com/yerenutku</a>)<br
+Mustafa Nadi ŞENEL<br>
+Y. Eren UTKU (<a href="www.github.com/yerenutku">github.com/yerenutku</a>)<br>
 
 
 Program Dili:Java
