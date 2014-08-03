@@ -14,5 +14,5 @@ Mustafa Nadi ŞENEL<br>
 Y. Eren UTKU (<a href="www.github.com/yerenutku">github.com/yerenutku</a>)<br>
 
 
-Program Dili:Java
-Platform:Eclipse
+Program Dili:Java<br>
+Platform:Eclipse<br>
